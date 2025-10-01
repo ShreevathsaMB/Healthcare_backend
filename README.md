@@ -181,7 +181,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Shreevathsa** - [GitHub Profile](https://github.com/yourusername)
+**Shreevathsa MB** - [GitHub Profile](https://github.com/ShreevathsaMB)
 
 ---
 
